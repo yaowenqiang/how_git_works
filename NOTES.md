@@ -10,4 +10,12 @@ main git
 Git is a Persistent Map
 
 echo "Apple Pie" | git hash-object --stdin
+echo "Apple Pie" | git hash-object --stdin -w
+
+
+.git/objects/23
+git cat-file 23991897e13e47ed0adb91a0082c31c82fe0cbe5 -t 
+git cat-file 23991897e13e47ed0adb91a0082c31c82fe0cbe5 -p
+
+
 
