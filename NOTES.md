@@ -18,4 +18,13 @@ git cat-file 23991897e13e47ed0adb91a0082c31c82fe0cbe5 -t
 git cat-file 23991897e13e47ed0adb91a0082c31c82fe0cbe5 -p
 
 
+git count-objects
+
+Git objects
+
++ Blobs
++ Trees
++ Commits
++ Annotated Tags
+
 
