@@ -27,4 +27,8 @@ Git objects
 + Commits
 + Annotated Tags
 
+A branch is just a reference to a commit.
+Head is just a reference to a branch.
+
+
 
