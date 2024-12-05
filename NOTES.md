@@ -31,4 +31,13 @@ A branch is just a reference to a commit.
 Head is just a reference to a branch.
 
 
+git co master
+git rebase feature
+
+git Garbage-collects unreachable objects
+
+merge preserve history
+
+
+
 
