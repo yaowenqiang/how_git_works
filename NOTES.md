@@ -39,5 +39,15 @@ git Garbage-collects unreachable objects
 merge preserve history
 
 
+When in doubt, just merge.
+
+git tag named_release1  -a -m "named tag"
+
+git checkout tagName
+
+A tag is like a branch that doesn't move.
+
+Like a local branch, a remote branch is just a reference to a commit
+
 
 
