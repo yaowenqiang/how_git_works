@@ -50,4 +50,5 @@ A tag is like a branch that doesn't move.
 Like a local branch, a remote branch is just a reference to a commit
 
 
+Never rebase shared commits
 
